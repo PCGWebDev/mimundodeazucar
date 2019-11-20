@@ -1,0 +1,209 @@
+!DOCTYPE html>
+<html lang="en">
+ <head>
+ 	<meta charset="utf-8">
+ 	<meta http-equiv="X-UA-Compatible" content="IE-edge">
+ 	<meta name="viewport" content="width=device-width, initial-scale=1">
+ 	<title>Mi mundo de Azúcar</title>
+ 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="css/modified.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+  <link rel="shortcut icon" type="image/x-icon" href="images/tarta.ico" />
+
+
+
+
+ 	<!--[if lt IE9]>
+ 		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+ 		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+ 	<![endif]-->
+ </head>
+<body>
+
+  
+<!--NAVBAR-->
+ <div id="arriba" class="header">
+	<ul class="nav nav-pills">
+		
+		<li class="active"><a class="scroll" href="#quienessomos">Quiénes somos</a></li>
+		<li class="dropdown">
+ 			<a data-toggle="dropdown" data-target="#" href="quehacemos.html">Qué hacemos<span class="caret"></span>
+ 			</a>
+ 			<ul  href="quehacemos.html" class="dropdown-menu">
+ 				<li><a href="quehacemos.html">Bodas</a></li>
+ 				<li><a href="quehacemos.html">Comuniones</a></li>
+ 				<li><a href="quehacemos.html">Tartas Infantiles</a></li>
+ 				<li><a href="quehacemos.html">Celebraciones</a></li>
+ 				
+		</ul>
+		
+		
+
+		<li><a href="cursosytalleres.html">Cursos y talleres</a></li>
+		<li><a href="contacto.html">Contacto</a></li>
+		
+		
+	</ul>
+</div>
+<!--NAVBAR END-->
+	
+
+<!-- The video -->
+
+
+<div class="embed-responsive embed-responsive-16by9">
+  
+  <video autoplay muted loop id="myVideo" class="embed-responsive-item" src="video/mimundodeazucar.webm"></video>
+
+</div>
+
+
+<!--MEDIA OBJECTS-->
+
+<div class="container">
+ <div class="white">
+      <h1 class="text-center" id="quienessomos">Quiénes somos</h1>
+     
+      <p>Mi mundo de azúcar es dulzura, pero sin pasarse; es dedicación, pasión, creatividad, y es ése momento especial.  Porque la vida está hecha de momentos.
+Momentos para celebrar la vida, la llegada de una vida, celebrar años , la amistad y  el amor.
+ La vida está hecha de momentos que merecen ser celebrados, porque solo se vive una vez y porque sí, porque nos da la gana celebrar …..
+Y para ayudarte a celebrarlo como tú quieres y como te lo mereces estamos nosotros Mi Mundo de Azúcar; donde encontrarás la tarta ideal para esos momentos tan especiales.
+Te  invitamos a vestirlos con piezas personalizadas a tu medida, elaboradas con todo el amor y los mejores ingredientes. 
+Contamos con una carta de sabores, donde puedes combinarlos como quieras.</br>
+<div class="media">
+  <a class="pull-right" href="#">
+    <img class="media-object" src="images/azul.webp" width="300" height="300"/></br>
+  </a>
+  <div class="media-body">
+<b>Viviana Cauna Ruiz</b> cake designer, es la encargada de escuchar y dar rienda suelta a la imaginación en sus creaciones.
+Nuestro atelier de repostería creativa en Algorta se inauguró en Mayo de 2014, pero nuestra pasión por la pastelería lleva mas de 20 años , iniciándonos en ésta profesión en nuestro país de origen “Uruguay”.
+Nuestra formación ha sido constante y no perdemos oportunidad de seguir formándonos y actualizando nuestros conocimientos para estar  al día en las últimas tendencias  en pastelería.
+Buscamos que vuelvas, y por ello, nuestra premisa no solo es lograr que tu tarta quede bonita por fuera sino también  por dentro, por ello contamos con una carta de sabores muy pensada y con recetas cuidadosamente elaboradas, con ingredientes naturales, de primera calidad, sin conservantes ni aditivos.
+Bienvenidos a Mi Mundo de Azúcar by Vivi.</br></br>
+
+
+</p>
+</div>
+</div>
+
+
+</div>
+
+<div class="white">
+  <a class="text-center" href="https://www.instagram.com/mimundodeazucar/?hl=en" target="_blank" class="fab fa-instagram"></a><h3>¡Síguenos en Instagram!</h3>
+<!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="http://lightwidget.com/widgets/4b1f0d4cdac1534c9ba8ca4c26e5373e.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+</div>
+
+</p>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="row">
+    <div class="col-md-4">
+<div class="white4">
+  <h4>Los desayunos más bonitos...</h4>
+  <a href="https://www.labelleplace.net/" target="_blank"> <img class="image" src="images/desayunos.webp" width="450" height="300"/></a></br>
+  <p><i>...en colaboración con </i><a href="https://www.labelleplace.net/" target="_blank"><b>La Belle Place</b></a></p>
+</div>
+</div>
+
+
+<div class="col-md-6 pull-right">
+<div class="white4">
+	<h4>¡Prueba nuestros exquisitos alfajores!</h4>
+	<img class="image" src="images/alfajores.webp" width="450" height="300"/>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+  
+
+
+           
+        
+
+
+  <!--END MEDIA OBJECTS-->
+  <div class="text-center">
+<a href="#arriba" type="button" class="btn btn-primary btn-lg scroll">Volver arriba</a>
+</div>
+
+
+
+
+  		
+  
+
+<!-- Footer -->
+<footer class="page-footer font-small mdb-color darken-3 pt-4">
+
+    <!-- Footer Elements -->
+    <div class="container">
+
+      <!--Grid row-->
+      <div class="row d-flex justify-content-center">
+
+        <!--Grid column-->
+        <div class="col-md-6">
+
+          <!-- Video -->
+         
+
+        </div>
+        
+
+        <!--Grid column-->
+ 		
+      </div>
+      <!--Grid row-->
+
+
+    </div>
+    <!-- Footer Elements -->
+
+    <!-- Copyright -->
+    
+      
+    <div class="footer-copyright text-center py-3">
+    	<a href="https://www.facebook.com/vcauna/" target="_blank" class="fab fa-facebook-square"></a>
+ 		<a href="https://www.instagram.com/mimundodeazucar/?hl=en" target="_blank" class="fab fa-instagram"></a>
+ 		<a href="https://www.pinterest.es/vcauna/" target="_blank" class="fab fa-pinterest"></a><br />
+ 		
+    </div>
+    <p class="text-center"><b>Dirección:</b> C/Torrene, 1, Algorta, 48991 <b>Teléfono:</b> +34 946554634 <b>Email:</b> infomimundodeazucar@gmail.com </p> 
+    <p class="text-center">Todos los derechos reservados. <a href="privacidad.html" target="_blank">Política de privacidad</a></p>
+    <!-- Copyright -->
+
+     <p id="myweb">Designed by <a href="https://www.pcgwebdev.com" target="_blank">PCGWebDev</a></p>
+
+  </footer>
+  <!-- Footer -->
+
+
+	</div>
+</li>
+</ul>
+</div>
+</body>
+</html>
+
+
+
+
+
+	<script src="js/jquery.js"></script>
+ 	<script src="js/bootstrap.js"></script>
+  <script src="js/myjs.js"></script>
+ 	
+
+
+ </body>
+ </html>
